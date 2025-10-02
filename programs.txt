@@ -1,5 +1,12 @@
+1.input an alphabets set ∑
+2.generate all posible String og lenght<= over ∑
+3. 
+4.
+5.
+6.
 7. design a program to convert nfa into dfa 
 8. github.com/sdhtD/automata-from-regex 
     do the same task by yourself and combine all
 9. progam to check if a string belongs to CFG
+
 10. Write a program to implement Lexical analyzer that reads a source code containing identifiers, keywords, numeric constants, and operator. The list of token recognize along with their types.
